@@ -13403,7 +13403,7 @@ as part of their curriculum is shocking and the fact that this dad stood
             <use xlink:href="#11f9feeaa855b449abde9720bbe10f14" xmlns:xlink="http://www.w3.org/1999/xlink"/>
             <foreignObject x="2" y="16" width="703" height="0" p:name="text" id="fa56df7a6d059b489bc896ab90b626ef" style="font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; color: rgb(0, 0, 0); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
                 </div></foreignObject>
-        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:Bitmap" id="b47bc72b02b6714c905a997e721b21c2" transform="matrix(1,0,0,1,354,362)"><p:metadata><p:property name="box"><![CDATA[509,30]]></p:property><p:property name="imageData"><![CDATA[509,30,../../../Screen Shot 2014-12-07 at 5.50.25 PM.png]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFF00]]></p:property><p:property name="strokeColor"><![CDATA[#000000FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property></p:metadata>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:Bitmap" id="b47bc72b02b6714c905a997e721b21c2" transform="matrix(1,0,0,1,354,362)"><p:metadata><p:property name="box"><![CDATA[509,30]]></p:property><p:property name="imageData"><![CDATA[509,30,assets/Screen Shot 2014-12-07 at 5.50.25 PM.png]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFF00]]></p:property><p:property name="strokeColor"><![CDATA[#000000FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property></p:metadata>
             <defs>
                 <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="imageShading" id="f67cfd8460206340ac10c7999104799d">
                     <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
@@ -13411,13 +13411,13 @@ as part of their curriculum is shocking and the fact that this dad stood
                 <g p:name="container" id="6a2bec7e4cf44248b4f85452ffe9002d">
                     <rect style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0; fill-opacity: 0;" p:name="bgRect" id="67567baa7898b24fafa8fc4b4a4941cf" width="509" height="30" transform="translate(0,0)"/>
                     <g p:name="imageContainer" id="a0e02f6c75a13943999772f7090100db" transform="scale(1,1)">
-                        <image x="0" y="0" p:name="image" id="a225400b18898348b03657b1a2647b89" xlink:href="../../../Screen Shot 2014-12-07 at 5.50.25 PM.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="509" height="30"/>
+                        <image x="0" y="0" p:name="image" id="a225400b18898348b03657b1a2647b89" xlink:href="assets/Screen Shot 2014-12-07 at 5.50.25 PM.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="509" height="30"/>
                     </g>
                 </g>
             </defs>
             <use xlink:href="#6a2bec7e4cf44248b4f85452ffe9002d" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(1, 1)" p:filter="url(#f67cfd8460206340ac10c7999104799d)" style="opacity: 0.6; visibility: hidden; display: none;" p:name="bgCopy" id="a55bb339bf27e6459ce6ae04f7cfdb2d"/>
             <use xlink:href="#6a2bec7e4cf44248b4f85452ffe9002d" xmlns:xlink="http://www.w3.org/1999/xlink"/>
-        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:Bitmap" id="b330909774a7e74f9ee83f0adc8b01be" transform="matrix(1,0,0,1,863,362)"><p:metadata><p:property name="box"><![CDATA[141,30]]></p:property><p:property name="imageData"><![CDATA[141,30,../../../Screen Shot 2014-12-07 at 5.54.05 PM.png]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFF00]]></p:property><p:property name="strokeColor"><![CDATA[#000000FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property></p:metadata>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:Bitmap" id="b330909774a7e74f9ee83f0adc8b01be" transform="matrix(1,0,0,1,863,362)"><p:metadata><p:property name="box"><![CDATA[141,30]]></p:property><p:property name="imageData"><![CDATA[141,30,assets/Screen Shot 2014-12-07 at 5.54.05 PM.png]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFF00]]></p:property><p:property name="strokeColor"><![CDATA[#000000FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property></p:metadata>
             <defs>
                 <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="imageShading" id="158f717b7ee3c742af687232624a66bd">
                     <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
@@ -13425,7 +13425,7 @@ as part of their curriculum is shocking and the fact that this dad stood
                 <g p:name="container" id="2f93268724555f40943a92f920e51bad">
                     <rect style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0; fill-opacity: 0;" p:name="bgRect" id="5851bdec2e79044cb10b7f6b04cf7a1b" width="141" height="30" transform="translate(0,0)"/>
                     <g p:name="imageContainer" id="fe94ebbe431c5749bbf85d7bb56be55f" transform="scale(1,1)">
-                        <image x="0" y="0" p:name="image" id="f0fc85fb34df1048938532300c69ebbe" xlink:href="../../../Screen Shot 2014-12-07 at 5.54.05 PM.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="141" height="30"/>
+                        <image x="0" y="0" p:name="image" id="f0fc85fb34df1048938532300c69ebbe" xlink:href="assets/Screen Shot 2014-12-07 at 5.54.05 PM.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="141" height="30"/>
                     </g>
                 </g>
             </defs>
